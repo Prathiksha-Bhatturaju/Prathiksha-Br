@@ -1,5 +1,6 @@
 # Prathiksha-Br
 **Uber Trip Analysis Dashboard**
+
 This Power BI dashboard provides insights into Uber trip data, including total trips, total earnings, distance covered, and trip distribution across different time periods and vehicle types. It includes features like dynamic filters, drill-through, and interactive visuals.
 
 **Key Features:**
